@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="flaticon">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/assets/fonts/flaticon.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
