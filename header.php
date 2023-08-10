@@ -26,13 +26,13 @@
     <a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'koala' ); ?></a>
 
     <!--Preloader area start here-->
-    <!-- <div id="loader" class="loader orange-color">
+    <div id="loader" class="loader orange-color">
 		<div class="loader-container">
 			<div class='loader-icon'>
 				<img src="assets/images/pre-logo1.png" alt="">
 			</div>
 		</div>
-	</div> -->
+	</div>
     <!--Preloader area End here-->
 
     <!-- Main content Start -->

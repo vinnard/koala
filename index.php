@@ -24,8 +24,7 @@ get_header();
              data-ipad-device-nav="false" data-ipad-device-dots="false" data-ipad-device2="1"
              data-ipad-device-nav2="false" data-ipad-device-dots2="false" data-md-device="1" data-md-device-nav="true"
              data-md-device-dots="false">
-            <div class="slider-content slide1"
-                 style="background: <?php echo get_template_directory_uri(); ?>/assets/images/slider/main-home/1.jpg;">
+            <div class="slider-content slide1">
                 <div class="container">
                     <div class="content-part">
                         <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">
@@ -39,8 +38,7 @@ get_header();
                     </div>
                 </div>
             </div>
-            <div class="slider-content slide2"
-                 style="background: <?php echo get_template_directory_uri(); ?>/assets/images/slider/main-home/1.jpg;">
+            <div class="slider-content slide2">
                 <div class="container">
                     <div class="content-part">
                         <div class="sl-sub-title wow bounceInLeft" data-wow-delay="300ms" data-wow-duration="2000ms">
@@ -158,7 +156,7 @@ get_header();
 				<?php endwhile; else: ?>
                     No posts
 				<?php endif; ?>
-                
+
             </div>
         </div>
     </div>
